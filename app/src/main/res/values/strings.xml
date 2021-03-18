@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Converter by Khanh Do</string>
+    <string name="buttonTempDes">Select temperature converter</string>
+    <string name="buttonLengthDes">Select length converter</string>
+    <string name="buttonWeightDes">Select weight converter</string>
+    <string name="inputNumber">Enter a number</string>
+    <string-array name="unitSelection">
+        <item>Meter</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+</resources>
